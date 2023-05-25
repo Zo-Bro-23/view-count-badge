@@ -1,7 +1,7 @@
 {
   "name": "view-count-badge",
   "version": "1.0.0",
-  "description": "Generates badges for showing view counts using [Count API](https://countapi.xyz/) and [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges). The API request should be made in the following format:",
+  "description": "Generates badges for showing view counts using Custom Icon Badges",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
